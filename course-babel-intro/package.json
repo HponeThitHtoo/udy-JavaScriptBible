@@ -1,0 +1,18 @@
+{
+  "name": "course-babel-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hpone Thit Htoo",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "semver": "^6.3.0"
+  },
+  "devDependencies": {
+    "browserslist": "^4.6.6"
+  }
+}
